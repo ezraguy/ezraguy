@@ -1,4 +1,4 @@
-### Hi there I'm Guy and I'm a front-end developer 👋
+### Hi there I'm Guy 👋
 
 <!--
 **ezraguy/ezraguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
